@@ -1,0 +1,4 @@
+DESCRIPTION="Google C++ unit test framework"
+HOMEPAGE="http://code.google.com/p/googletest/"
+SRC_URI="http://googletest.googlecode.com/files/${P}.tar.bz2"
+PATCH_URI="1.5.0-no-undefined.patch"
