@@ -1,8 +1,0 @@
-category: Devel
-requires: libgcc1 libstdc++6-devel
-sdesc: "Google C++ unit test framework"
-ldesc: "Google's framework for writing C++ tests on a variety of 
-platforms, based on the xUnit architecture.  Supports automatic test 
-discovery, a rich set of assertions, user-defined assertions, death 
-tests, fatal and non-fatal failures, various options for running the 
-tests, and XML test report generation."

@@ -1,0 +1,13 @@
+NAME="gtest"
+VERSION=1.5.0
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="Google C++ unit test framework"
+DESCRIPTION="Google's framework for writing C++ tests on a variety of
+platforms, based on the xUnit architecture.  Supports automatic test
+discovery, a rich set of assertions, user-defined assertions, death
+tests, fatal and non-fatal failures, various options for running the
+tests, and XML test report generation."
+HOMEPAGE="http://code.google.com/p/googletest/"
+SRC_URI="http://googletest.googlecode.com/files/gtest-${VERSION}.tar.bz2"
+PATCH_URI="1.5.0-no-undefined.patch"
